@@ -1,0 +1,62 @@
+body {
+  width: 1000px;
+  margin: auto;
+  background-image: url(../images/horloges.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+table {
+  margin-top: 60px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 5px;
+  border: 2px solid black;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.638);
+}
+.entete {
+  color: white;
+  background-color: rgb(70, 70, 70);
+  height: 30px;
+  font-size: 2em;
+}
+.heures {
+  width: 5%;
+  height: 10px;
+}
+
+.jours {
+  width: 19%;
+  font-size: 1.5em;
+}
+
+.plage {
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.periodecommune {
+  background-color: rgb(28, 86, 209, 0.855);
+}
+
+.KB2 {
+  background-color: rgba(163, 20, 199, 0.855);
+}
+
+.KB3 {
+  background-color: rgba(250, 12, 12, 0.855);
+}
+
+.KB1math {
+  background-color: rgba(231, 166, 69, 0.855);
+}
+
+.KB1prog {
+  background-color: rgba(34, 233, 27, 0.855);
+}
